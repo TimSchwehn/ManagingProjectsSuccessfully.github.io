@@ -1,8 +1,8 @@
 ---
 title: Change_Management
-tags: agil klassisch
+tags: klassisch change management
 author: TimSchwehn
-anrechnung: k oder a
+anrechnung: k
 ---
 
 Kurzbeschreibung zu Change_Management um ein erstes Verständnis dafür zu schaffen um was es hier geht.
